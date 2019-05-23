@@ -1,0 +1,22 @@
+body{
+  font-family: fantasy;
+}
+h1{
+  font-style: normal;
+  text-align: center;
+  color: #f7325e;
+}
+h2{
+  font-style: normal;
+  color: #f7325e;
+}
+p{
+  color: #7dc410;
+  text-decoration: inherit;
+}
+.tropical{
+font-weight: normal;
+}
+.popular{
+font-weight: bold;
+}
